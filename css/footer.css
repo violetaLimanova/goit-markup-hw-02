@@ -1,0 +1,25 @@
+.website-footer {
+    background-color: #2e2f42;
+    color: #fff;
+} 
+
+.logo-footer {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #f4f4fd;
+    text-decoration: none;
+}
+
+.logo-footer:hover {
+    color: #FF0000;
+}
+
+.logo-footer:focus {
+    color: #FF0000;
+}
+
+.logo-footer:active {
+    color: #FF0000;
+}

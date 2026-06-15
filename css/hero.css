@@ -1,0 +1,25 @@
+.section-hero {
+    background-color: #2e2f42;
+    color: #fff;
+}
+.title-hero {
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+}
+
+.button-hero {
+    background-color: #4d5ae5;
+    color: #fff;
+    font-weight: 500;
+}
+
+.button-hero:hover {
+    color: #FF0000;
+}
+.button-hero:focus {
+    color: #FF0000;
+}
+.button-hero:active {
+    color: #FF0000;
+}
