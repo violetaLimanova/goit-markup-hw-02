@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto' , sans-serif;
+    color: #2e2f42;
+    line-height: 1.5;
+    background-color: #fff;
+}
+
+
+.part-logo {
+    color: #4d5ae5;
+}
+
+.part-logo:hover {
+    color: #4d5ae5;
+}
+.part-logo:focus {
+    color: #4d5ae5;
+}
+.part-logo:active{
+    color: #4d5ae5;
+}
+
+
+ul {
+    list-style-type: none;
+}
